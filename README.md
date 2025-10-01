@@ -1,4 +1,3 @@
-# selectrachecklist.github.io[index.html](https://github.com/user-attachments/files/22645825/index.html)
 <!DOCTYPE html>
 <html lang="fr">
 <head>
